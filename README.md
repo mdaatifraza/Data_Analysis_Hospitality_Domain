@@ -19,7 +19,5 @@ My ultimate goal is to prepare the data for a journey of deeper analysis and val
 
 ## Project Structure 📂
 
-In the cartography of this project, you'll find:
-
-- **data.csv:** A culinary odyssey captured in a food dataset
+- **data.csv:** Hospitality dataset
 - **data_wrangling.ipynb:** The Jupyter notebook is like our data wrangling diary. It's where we wrote down all the steps we took to clean and analyze the data
