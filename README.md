@@ -1,4 +1,4 @@
-# Data Analysis With Python Project - Hospitality
+# Hospitality Domain Data Analysis
 
 Welcome to my data analysis project focused on hospitality, where we delve into the art of data wrangling with Python.
 This repository encapsulates the essence of my journey through a hands-on workshop on data analysis with Python.
